@@ -1,8 +1,9 @@
 # Introduction to Massive Data Analysis
 NTHU CS 573200. Course Instructor: Wang, Jia-Shung
+
 The courses' materials are inherited from Stanford CS246: Mining Massive Data Sets
 
-There're four homeworks during the courses, all of which use MapReduce to solve the problem:
+There're four homeworks during the courses, all of which use **MapReduce** to solve the problem:
 
 1. Matrix Multiplication
 > Given two 500x500 matrix and calculate the product result.
